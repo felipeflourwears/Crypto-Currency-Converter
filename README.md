@@ -17,6 +17,8 @@ npm create vite@latest
 
 ```
 npm install zod --> ZOD Types
+npm install zustand --> Store
+npm install axios --> Axios 
 ```
 
 ### Tools
@@ -28,6 +30,14 @@ https://getcssscan.com/css-box-shadow-examples --> Examples Shadow Box
 ```
 https://min-api.cryptocompare.com/
 ```
+
+### Topics
+<ul>
+  <li>ZOD Types</li>
+  <li>Zustand Store Data</li>
+  <li>Use API Cryptocompare</li>
+  <li>Axios to simplify calls from API's</li>
+</ul>
 
 # React + TypeScript + Vite
 
