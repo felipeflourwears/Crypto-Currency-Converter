@@ -13,6 +13,21 @@ npm create vite@latest
 √ Select a framework: » React
 √ Select a variant: » TypeScript + SWC
 ```
+### Packages
+
+```
+npm install zod --> ZOD Types
+```
+
+### Tools
+```
+https://getcssscan.com/css-box-shadow-examples --> Examples Shadow Box
+```
+
+### API
+```
+https://min-api.cryptocompare.com/
+```
 
 # React + TypeScript + Vite
 
